@@ -16,7 +16,7 @@
 ✔ I’m currently lerning about web scrapping.<br>
 ✔ I’m looking forward to collaborate on open source projects.<br>
 ✔ Outside tech, I love videogames, music, and my all time favorite reading, so ask me anything about books.<br>
-✔ Reach out to me at: edmundoviramontes24@gmail.com 📫<br><br>
+✔ Reach out to me at: edmundoviramontes24@gmail.com 📫<br>
  
 ## My Technical Skills
 

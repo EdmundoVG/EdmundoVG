@@ -3,7 +3,7 @@
   
   <em>
     Hello, I'm a student at <a href="http://www.itlalaguna.edu.mx"> <b>Instituto Tecnológico de La Laguna</b> </a>
-    currently finishing my degree Computer Science. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
+    currently finishing my Computer Science degree. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
   </em>
 </p>
 
